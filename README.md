@@ -26,20 +26,7 @@ Este projeto foi desenvolvido com fins de estudo para:
 
 ##  Como visualizar
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-2. Acesse a pasta:
-
-```bash
-cd seu-repositorio
-```
-
-3. Abra o arquivo `index.html` no navegador
-
+1. Cole no seu navegador: https://victor212-hub.github.io/projeto-we-care/
 ##  Preview
 
 *(adicione aqui um print da tela depois se quiser deixar mais profissional)*
